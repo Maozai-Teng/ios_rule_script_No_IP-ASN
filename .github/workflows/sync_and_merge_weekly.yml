@@ -1,4 +1,4 @@
-name: Sync Fork and Modify Content
+name: Sync Fork and Modify Content Weekly
 
 on:
   workflow_dispatch:
