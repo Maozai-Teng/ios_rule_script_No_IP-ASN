@@ -3,7 +3,7 @@ name: Sync Fork and Modify Content Weekly
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16 * * 1'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
+    - cron: '0 16 * * 0'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
 
 jobs:
   sync-and-modify:
