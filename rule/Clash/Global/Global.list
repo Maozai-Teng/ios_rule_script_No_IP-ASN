@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-02 02:12:18
+# UPDATED: 2025-01-12 02:11:54
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 30754
@@ -24846,7 +24846,6 @@ DOMAIN-SUFFIX,zen8ok.xyz
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,zencoder.com
 DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,zenodo.org
 DOMAIN-SUFFIX,zeplerinstitute.ac.uk
 DOMAIN-SUFFIX,zeplin.dev
@@ -25948,6 +25947,7 @@ DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cn6.eu
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
+DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnineu.com

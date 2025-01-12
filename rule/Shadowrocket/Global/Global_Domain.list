@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-02 02:12:19
+# UPDATED: 2025-01-12 02:11:54
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 30754
@@ -6406,6 +6406,7 @@
 .cn6.eu
 .cna.com.tw
 .cnabc.com
+.cnbeta.com.tw
 .cnd.org
 .cnet.com
 .cnineu.com
@@ -30604,7 +30605,6 @@
 .zencoder.com
 .zendesk.com
 .zengjinyan.org
-.zenlesszonezero.com
 .zenmate.com
 .zenodo.org
 .zeplerinstitute.ac.uk
