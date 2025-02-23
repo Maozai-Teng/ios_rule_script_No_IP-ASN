@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-16 02:11:15
+# UPDATED: 2025-02-23 02:11:08
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30890
+# DOMAIN-SUFFIX: 30910
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31127
+# TOTAL: 31147
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -757,6 +757,7 @@ payload:
   - '+.adas.ac.uk'
   - '+.adbecrsl.com'
   - '+.adbkm.com'
+  - '+.adblockcdn.com'
   - '+.adcommerce.tv'
   - '+.addison-wesley.ch'
   - '+.addison.ac.uk'
@@ -5285,6 +5286,7 @@ payload:
   - '+.cindymovies.com'
   - '+.cinemax.com'
   - '+.cinepornogratis.com'
+  - '+.cinny.in'
   - '+.cios.org'
   - '+.ciota.ac.uk'
   - '+.cirencester.ac.uk'
@@ -6891,6 +6893,7 @@ payload:
   - '+.drweb.com'
   - '+.drweb.fr'
   - '+.drweb.kz'
+  - '+.drweb.ru'
   - '+.drweb.uz'
   - '+.dscis.ac.uk'
   - '+.dses.ac.uk'
@@ -8686,6 +8689,7 @@ payload:
   - '+.flowfront.com'
   - '+.flowfront.net'
   - '+.flowtype.org'
+  - '+.fluffychat.im'
   - '+.fluidfxapp.com'
   - '+.fluidpreview.com'
   - '+.fluids.ac.uk'
@@ -10070,6 +10074,7 @@ payload:
   - '+.grids.ac.uk'
   - '+.grimsby.ac.uk'
   - '+.grimsbytec.ac.uk'
+  - '+.grok.com'
   - '+.grooby.com'
   - '+.groq.com'
   - '+.groupfun.com'
@@ -10547,6 +10552,7 @@ payload:
   - '+.hentaivn.de'
   - '+.hentaivn.la'
   - '+.hentaivn.net'
+  - '+.hentaivox.com'
   - '+.hentaivvz.com'
   - '+.hentaiworld.eu'
   - '+.hentaiworld.tv'
@@ -15244,7 +15250,12 @@ payload:
   - '+.mwell.ac.uk'
   - '+.mwhentai.net'
   - '+.mwrc.ac.uk'
+  - '+.mxlogin.com'
   - '+.mxmcdn.net'
+  - '+.mxroute.com'
+  - '+.mxroutedocs.com'
+  - '+.mxroutehelp.com'
+  - '+.mxrouting.net'
   - '+.mxshm.site'
   - '+.my-enema.com'
   - '+.my-kualalumpur-1.myhuaweicloud.com'
@@ -15855,6 +15866,8 @@ payload:
   - '+.nexitally.com'
   - '+.nexitallysafe.com'
   - '+.nexitcore.com'
+  - '+.nexo.com'
+  - '+.nexo.io'
   - '+.nexon.co.jp'
   - '+.nexon.io'
   - '+.nexoncdn.co.kr'
@@ -17507,7 +17520,9 @@ payload:
   - '+.pixfs.net'
   - '+.pixhost.to'
   - '+.pixinsight.com.tw'
+  - '+.pixiv-recommend.net'
   - '+.pixiv.co.jp'
+  - '+.pixiv.help'
   - '+.pixiv.me'
   - '+.pixiv.org'
   - '+.pixlr-o-matic.com'
@@ -24538,6 +24553,8 @@ payload:
   - '+.youpornxvideos.net'
   - '+.your-objectstorage.com'
   - '+.your-server.de'
+  - '+.your-storagebox.de'
+  - '+.your-storageshare.de'
   - '+.youramateurporn.com'
   - '+.yourassbig.com'
   - '+.yourbrain.com'
@@ -25049,6 +25066,7 @@ payload:
   - '+.5i01.com'
   - '+.5isotoi5.org'
   - '+.5maodang.com'
+  - '+.611study.icu'
   - '+.63i.com'
   - '+.64museum.org'
   - '+.64tianwang.com'
@@ -28445,6 +28463,7 @@ payload:
   - '+.newlandmagazine.com.au'
   - '+.newmitbbs.com'
   - '+.newnews.ca'
+  - '+.news1.kr'
   - '+.news100.com.tw'
   - '+.newsancai.com'
   - '+.newsblur.com'
@@ -28840,6 +28859,7 @@ payload:
   - '+.picjs.xyz'
   - '+.picturedip.com'
   - '+.picturesocial.com'
+  - '+.picuki.com'
   - '+.pigav.com'
   - '+.pimg.tw'
   - '+.pin-cong.com'
