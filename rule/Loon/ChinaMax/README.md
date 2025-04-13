@@ -21,19 +21,19 @@
 
 ## 规则统计
 
-最后更新时间：2025-04-06 02:13:59
+最后更新时间：2025-04-13 02:14:27
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 279  | 
+| DOMAIN | 276  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 106325  | 
+| DOMAIN-SUFFIX | 118375  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8315  | 
-| IP-CIDR6 | 12330  | 
+| IP-CIDR | 8318  | 
+| IP-CIDR6 | 12487  | 
 | USER-AGENT | 65  | 
-| TOTAL | 127328  | 
+| TOTAL | 139535  | 
 
 
 ## Loon 
@@ -443,8 +443,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/bilibili.conf
-- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
