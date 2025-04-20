@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-13 02:12:47
+# UPDATED: 2025-04-19 02:13:21
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31295
+# DOMAIN-SUFFIX: 31329
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31535
+# TOTAL: 31569
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -234,15 +234,6 @@ login.microsoftonline.com
 .1inch.io
 .1jjdg2.vip
 .1jsa22.vip
-.1lib.cloud
-.1lib.cz
-.1lib.domains
-.1lib.education
-.1lib.eu
-.1lib.limited
-.1lib.pl
-.1lib.to
-.1lib.tw
 .1monsterbeatsbydreus.com
 .1password.ca
 .1password.eu
@@ -298,7 +289,6 @@ login.microsoftonline.com
 .2k.com
 .2kcoretech.online
 .2kgames.com
-.2lib.org
 .2mdn-cn.net
 .2mdn.net
 .30plusgirls.com
@@ -340,7 +330,7 @@ login.microsoftonline.com
 .3dtin.net
 .3go.fun
 .3hentai.net
-.3lib.net
+.3lateral.com
 .3movs.com
 .3movs.xyz
 .3naked.com
@@ -772,6 +762,7 @@ login.microsoftonline.com
 .adguard.com
 .adguard.info
 .adguard.io
+.adguardaccount.com
 .adguardvpn.com
 .adhelpnews.com
 .adidas.at
@@ -2030,7 +2021,6 @@ login.microsoftonline.com
 .arphic.com.tw
 .arrc.ac.uk
 .ars.ac.uk
-.art1lib.com
 .artcam.com
 .artcamexpress.com
 .artcaminsignia.com
@@ -2481,6 +2471,7 @@ login.microsoftonline.com
 .awjq.cc
 .awlc.ac.uk
 .aws-iot-hackathon.com
+.aws.com
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -2551,10 +2542,6 @@ login.microsoftonline.com
 .azuresmartspaces.net
 .azurestackvalidation.com
 .b-eroland.net
-.b-ok.africa
-.b-ok.asia
-.b-ok.global
-.b-ok.org
 .b3boos.com
 .b6b33.com
 .b6fc.ac.uk
@@ -4060,24 +4047,15 @@ login.microsoftonline.com
 .boodigo.com
 .boodigogo.com
 .book18.org
-.book4you.org
 .bookbrainz.org
 .bookclubcorner.com
 .bookclubgirl.com
-.bookfi.net
 .bookhad.ac.uk
 .booking.com
 .booklive.jp
 .bookmark.xxx
 .bookmybridgestonetyre.com
 .bookonsky.net
-.booksc.eu
-.booksc.me
-.booksc.org
-.booksc.xyz
-.bookshome.info
-.bookshome.net
-.bookshome.world
 .booksinprint.com
 .bookstagram.com
 .booloo.com
@@ -4756,6 +4734,7 @@ login.microsoftonline.com
 .capitaliq.com
 .capitalisingoncreativity.ac.uk
 .capsule.ac.uk
+.capturingreality.com
 .carbo-biocrop.ac.uk
 .carbobiocrop.ac.uk
 .carbon.com
@@ -5252,6 +5231,7 @@ login.microsoftonline.com
 .chuokoron.jp
 .chuporno.com
 .churchill.ac.uk
+.chutes.ai
 .chutuno.fun
 .chuzs2.xyz
 .chwr7s8u.com
@@ -5426,7 +5406,6 @@ login.microsoftonline.com
 .cloudconvert.com
 .cloudcraze.com
 .cloudcredibility.com
-.cloudflare-dns.com
 .cloudflare-ech.com
 .cloudflare-esni.com
 .cloudflare-gateway.com
@@ -5916,6 +5895,7 @@ login.microsoftonline.com
 .cts.ac.uk
 .cttoolkit.ac.uk
 .ctv.com.tw
+.cubicmotion.com
 .cubo.ac.uk
 .cuc.ac.uk
 .cuckfilmswifefuck.com
@@ -6166,7 +6146,6 @@ login.microsoftonline.com
 .ddi.ac.uk
 .dditsadn.com
 .de-montfort.ac.uk
-.de1lib.org
 .deadspacegame.com
 .deafandcreative.ac.uk
 .deafheritagenetwork.ac.uk
@@ -7975,6 +7954,7 @@ login.microsoftonline.com
 .faam.ac.uk
 .faapy.com
 .faasbook.com
+.fab.com
 .fabhairypussy.com
 .fablabplymouth.ac.uk
 .fabricmc.net
@@ -10609,6 +10589,7 @@ login.microsoftonline.com
 .hetzner.com
 .hetzner.company
 .hetzner.de
+.hetzner.social
 .hew.ac.uk
 .hewit.ac.uk
 .hewlett-packard.asia
@@ -10695,7 +10676,6 @@ login.microsoftonline.com
 .hjb7e9.top
 .hk.file.myqcloud.com
 .hk.weibo.com
-.hk1lib.org
 .hkbigman.net
 .hkbn.com.hk
 .hkbn.net
@@ -11234,6 +11214,7 @@ login.microsoftonline.com
 .hypnotube.com
 .hypodermic-injection.com
 .hypodermicinjectiononline.com
+.hyprsense.com
 .hysbys.ac.uk
 .hyu2.com
 .hzmn.net
@@ -13303,9 +13284,6 @@ login.microsoftonline.com
 .librarylovefest.com
 .libraryofthumbs.com
 .librewolf.net
-.libsolutions.app
-.libsolutions.domains
-.libsolutions.net
 .licensebuttons.net
 .licenseparser.com
 .lichfield.ac.uk
@@ -13747,7 +13725,6 @@ login.microsoftonline.com
 .m5ir5np1.shop
 .m5servicedesk.ac.uk
 .m5universities.ac.uk
-.ma1lib.org
 .maa.plus
 .mabbank.com
 .mablethorpe.ac.uk
@@ -14857,6 +14834,7 @@ login.microsoftonline.com
 .misskey.yukineko.me
 .misskeyusercontent.jp
 .mist.ac.uk
+.mistral.ai
 .mistresskym.com
 .mit.net
 .mitnaka.com
@@ -15174,6 +15152,7 @@ login.microsoftonline.com
 .msftncsi.com
 .msftnet.org
 .msgamesresearch.com
+.mshome.net
 .msinnovationchallenge.com
 .msk.ilnk.info
 .msk.kitazawa.me
@@ -18421,6 +18400,8 @@ login.microsoftonline.com
 .quip-cdn.com
 .quip.com
 .quipelements.com
+.quixel.com
+.quixel.se
 .qumingwz.com
 .qumrancavesdispersed.ac.uk
 .quotable.com
@@ -18454,6 +18435,7 @@ login.microsoftonline.com
 .rad-sat.ac.uk
 .rada.ac.uk
 .radeon.com
+.radgametools.com
 .radian6.com
 .radiofarda.com
 .radiomango.fm
@@ -18633,6 +18615,7 @@ login.microsoftonline.com
 .realgfporn.com
 .realisingopportunities.ac.uk
 .reality-computing.com
+.realityscan.com
 .reallesbianexposed.com
 .reallifemethods.ac.uk
 .realmaturesfuck.com
@@ -19085,7 +19068,6 @@ login.microsoftonline.com
 .safecampuscommunities.ac.uk
 .safepodnetwork.ac.uk
 .saffrontech.com
-.sagernet.org
 .sages.ac.uk
 .sahabatsetiasmartone.com
 .sahfos.ac.uk
@@ -19686,7 +19668,6 @@ login.microsoftonline.com
 .sfxc.ac.uk
 .sg.weibo.com
 .sg120.me
-.sg1lib.org
 .sgeulnagaidhlig.ac.uk
 .sghms.ac.uk
 .sgiliaith.ac.uk
@@ -19916,10 +19897,6 @@ login.microsoftonline.com
 .sinet.ac.uk
 .sing4.lat
 .sing68.com
-.singlelogin.app
-.singlelogin.me
-.singlelogin.re
-.singlelogin.site
 .singtaobooks.com
 .singtaola.com
 .singtaonewscorp.com
@@ -19970,6 +19947,7 @@ login.microsoftonline.com
 .sketchbookmobile.com
 .sketchbooknews.com
 .sketchbookpro.com
+.sketchfab.com
 .skillsbridge.ac.uk
 .skillscompetitionwales.ac.uk
 .skillsgroupuk.ac.uk
@@ -21945,6 +21923,7 @@ login.microsoftonline.com
 .twinkboyfriends.tv
 .twinkspornos.com
 .twinkybf.com
+.twinmotion.com
 .twinprime.com
 .twinsuk.ac.uk
 .twirl.ac.uk
@@ -24590,6 +24569,7 @@ login.microsoftonline.com
 .yourxxxvideos.pro
 .youshare.ac.uk
 .youskbe.com
+.youtrack.cloud
 .youtrannytube.com
 .youtube-nocookie.com
 .youtube.ae
@@ -24830,7 +24810,6 @@ login.microsoftonline.com
 .yy8y.com
 .yyfb.cyou
 .yzld188.top
-.z-library.se
 .z00.world
 .z18r.co
 .z18r.com
@@ -24901,9 +24880,6 @@ login.microsoftonline.com
 .zipcine.com
 .ziporn.com
 .zishy.com
-.zlib.life
-.zlibcdn.com
-.zlibcdn2.com
 .zndsk.com
 .zobry.site
 .zoho.com.au
@@ -25009,6 +24985,16 @@ login.microsoftonline.com
 .1bao.org
 .1dumb.com
 .1eew.com
+.1lib.cloud
+.1lib.cz
+.1lib.domains
+.1lib.education
+.1lib.eu
+.1lib.limited
+.1lib.pl
+.1lib.sk
+.1lib.to
+.1lib.tw
 .1mobile.com
 .1mobile.tw
 .1password.com
@@ -25033,6 +25019,7 @@ login.microsoftonline.com
 .24smile.org
 .25u.com
 .2du5.com
+.2lib.org
 .2lipstube.com
 .2shared.com
 .2waky.com
@@ -25045,6 +25032,7 @@ login.microsoftonline.com
 .3arabtv.com
 .3boys2girls.com
 .3d-game.com
+.3lib.net
 .3proxy.ru
 .3ren.ca
 .3tui.net
@@ -25368,6 +25356,7 @@ login.microsoftonline.com
 .arlingtoncemetery.mil
 .armorgames.com
 .army.mil
+.art1lib.com
 .art4tibet1998.org
 .arte.tv
 .artofpeacefoundation.org
@@ -25407,6 +25396,7 @@ login.microsoftonline.com
 .atnext.com
 .att.com
 .audacy.com
+.audiomack.com
 .audionow.com
 .autodraw.com
 .av-e-body.com
@@ -25439,7 +25429,11 @@ login.microsoftonline.com
 .azure.com
 .azureedge.net
 .azurewebsites.net
+.b-ok.africa
+.b-ok.asia
 .b-ok.cc
+.b-ok.global
+.b-ok.org
 .b0ne.com
 .baby-kingdom.com
 .babylonbee.com
@@ -25657,9 +25651,18 @@ login.microsoftonline.com
 .bonfoundation.org
 .boobstagram.com
 .book.com.tw
+.book4you.org
 .bookdepository.com
 .bookepub.com
+.bookfi.net
 .books.com.tw
+.booksc.eu
+.booksc.me
+.booksc.org
+.booksc.xyz
+.bookshome.info
+.bookshome.net
+.bookshome.world
 .booktopia.com.au
 .bookwalker.com.tw
 .boomssr.com
@@ -26050,6 +26053,7 @@ login.microsoftonline.com
 .cloakpoint.com
 .cloud.cupronickel.goog
 .cloudcone.com
+.cloudflare-dns.com
 .cloudflare-ipfs.com
 .cloudflare.com
 .cloudfront.net
@@ -26282,6 +26286,7 @@ login.microsoftonline.com
 .ddhw.info
 .dditscdn.com
 .de-sci.org
+.de1lib.org
 .deadhouse.org
 .deadline.com
 .deaftone.com
@@ -26717,6 +26722,7 @@ login.microsoftonline.com
 .fangongheike.com
 .fanhaodang.com
 .fanhaolou.com
+.fani.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangdang.com
@@ -26740,6 +26746,7 @@ login.microsoftonline.com
 .faststone.org
 .fatakat-n.club
 .fatbtc.com
+.favcomic.com
 .favotter.net
 .favstar.fm
 .fawanghuihui.org
@@ -27147,6 +27154,7 @@ login.microsoftonline.com
 .gnci.org.hk
 .gnews.org
 .go-pki.com
+.go-to-library.sk
 .go-to-zlibrary.se
 .go.com
 .go.jp
@@ -27274,6 +27282,7 @@ login.microsoftonline.com
 .gzm.tv
 .gzone-anime.info
 .h-china.org
+.h-ciyuan.com
 .h-moe.com
 .h1n1china.org
 .h528.com
@@ -27394,6 +27403,7 @@ login.microsoftonline.com
 .hk-pub.com
 .hk.hao123img.com
 .hk01.com
+.hk1lib.org
 .hk32168.com
 .hkacg.com
 .hkacg.net
@@ -27570,6 +27580,7 @@ login.microsoftonline.com
 .hyperrate.com
 .hypothes.is
 .hyread.com.tw
+.hysteria.network
 .i-cable.com
 .i-part.com.tw
 .i-scmp.com
@@ -27771,6 +27782,7 @@ login.microsoftonline.com
 .isupportuyghurs.org
 .itaboo.info
 .itaiwan.gov.tw
+.italian-books.sk
 .italiatibet.org
 .itasoftware.com
 .itemdb.com
@@ -28102,6 +28114,9 @@ login.microsoftonline.com
 .libertytimes.com.tw
 .libraryinformationtechnology.com
 .libredd.it
+.libsolutions.app
+.libsolutions.domains
+.libsolutions.net
 .libsyn.com
 .licdn.com
 .lidecheng.com
@@ -28220,6 +28235,7 @@ login.microsoftonline.com
 .m.me
 .m8008.com
 .ma.hao123.com
+.ma1lib.org
 .macgamestore.com
 .macid.co
 .macromedia.com
@@ -28260,6 +28276,7 @@ login.microsoftonline.com
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manwa.me
 .manyvoices.news
 .maplew.com
 .marc.info
@@ -29523,6 +29540,7 @@ login.microsoftonline.com
 .safechat.com
 .safeguarddefenders.com
 .safervpn.com
+.sagernet.org
 .saintyculture.com
 .saiq.me
 .sakuralive.com
@@ -29620,6 +29638,7 @@ login.microsoftonline.com
 .sftindia.org
 .sftuk.org
 .sfx.ms
+.sg1lib.org
 .sgwritings.com
 .sgzhan.com
 .shadeyouvpn.com
@@ -29701,7 +29720,11 @@ login.microsoftonline.com
 .sinchew.com.my
 .singaporepools.com.sg
 .singfortibet.com
+.singlelogin.app
+.singlelogin.me
+.singlelogin.re
 .singlelogin.se
+.singlelogin.site
 .singpao.com.hk
 .singtao.ca
 .singtao.com
@@ -29824,6 +29847,7 @@ login.microsoftonline.com
 .sosad.fun
 .sosreader.com
 .sostibet.org
+.sotwe.com
 .sou-tong.org
 .soubory.com
 .soul-plus.net
@@ -29885,6 +29909,7 @@ login.microsoftonline.com
 .ssglobal.me
 .ssh91.com
 .ssl443.org
+.ssm.fun
 .sspanel.net
 .sspanel.org
 .sspro.ml
@@ -30197,6 +30222,7 @@ login.microsoftonline.com
 .thlib.org
 .thomasbernhard.org
 .thongdreams.com
+.thotsbay.tv
 .threadreaderapp.com
 .threads.net
 .threatchaos.com
@@ -31307,8 +31333,13 @@ login.microsoftonline.com
 .yyjlymb.xyz
 .yysub.net
 .yzzk.com
+.z-lib.gd
+.z-lib.gs
 .z-lib.io
 .z-lib.org
+.z-lib.ps
+.z-library.se
+.z-library.sk
 .zacebook.com
 .zalmos.com
 .zamimg.com
@@ -31358,6 +31389,9 @@ login.microsoftonline.com
 .zippyshare.com
 .zkaip.com
 .zkiz.com
+.zlib.life
+.zlibcdn.com
+.zlibcdn2.com
 .zmedia.com.tw
 .zodgame.us
 .zoho.com

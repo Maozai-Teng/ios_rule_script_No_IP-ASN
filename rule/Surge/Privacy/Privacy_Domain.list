@@ -1,12 +1,12 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-13 02:11:21
+# UPDATED: 2025-04-19 02:11:56
 # DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 39424
+# DOMAIN-SUFFIX: 39448
 # IP-CIDR: 11
-# TOTAL: 39463
+# TOTAL: 39487
 .0.myikas.com
 .0.net.easyjet.com
 .00px.net
@@ -5195,6 +5195,7 @@
 .analytics.hambleden-capital.com
 .analytics.hardrock.com
 .analytics.hashnode.com
+.analytics.hatech.dev
 .analytics.haworth.com
 .analytics.hazeldenbettyford.org
 .analytics.hermesworld.com
@@ -7021,6 +7022,7 @@
 .b.bloomberglp.com
 .b.check-ins.com.my
 .b.chme.io
+.b.clipkit.co
 .b.discotech.me
 .b.dl.redcrossblood.org
 .b.escardio.org
@@ -7265,6 +7267,7 @@
 .bhwjoa.cotopaxi.com
 .bhwkju.vivo.com
 .bhxemw.charleskeith.com
+.bi-metrics.aramuz.net
 .bi.banggood.com
 .bi.concordesolutions.com
 .bi.heyloyalty.com
@@ -8074,6 +8077,7 @@
 .chartec.actonservice.com
 .chat.forddirectdealers.com
 .check.frbservices.org
+.check3.tiaa.org
 .checkpointcharlie.heizung.de
 .cheese.guac.live
 .chef.getmenoo.com
@@ -9383,6 +9387,7 @@
 .dash.getsitecontrol.com
 .dashboardbntest.branchcustom.xyz
 .dasych.drmartypets.com
+.data-ingest.xtralife.com
 .data-logdelivery.wconcept.co.kr
 .data-ssl.pnet.co.za
 .data-ssl.stepstone.at
@@ -9796,6 +9801,7 @@
 .data.qamailing.mcafee.com
 .data.qamarketing.giftcards.com
 .data.queryly.com
+.data.replo.app
 .data.resources.ringcentral.com
 .data.rewards.riteaid.com
 .data.ricaud.com
@@ -10765,10 +10771,12 @@
 .e.vcty.co
 .e.viously.com
 .e035.pandasuite.io
+.e045f561.b-cdn.net
 .e10.verticurl.com
 .e1e.io
 .e246.pandasuite.io
 .e403.pandasuite.io
+.e428.tio.nl
 .e5obq1v261.www.lurkit.com
 .e77lmzbqou0n-a.akamaihd.net
 .ea.armandthiery.fr
@@ -13754,6 +13762,7 @@
 .gsbygc.clarks.eu
 .gsftuy.nutripure.fr
 .gsg9.carrefour-banque.fr
+.gsitrix.com
 .gslive.edm.globalsources.com
 .gsmatch.edm.globalsources.com
 .gsmqez.xcite.com
@@ -13907,6 +13916,7 @@
 .healthgrades.actonservice.com
 .healthier.aahs.org
 .healthier.luminishealth.org
+.heap-api.com
 .heap.drop.com
 .hearob.klix.ba
 .heartbeat.pmd.444.hu
@@ -18104,6 +18114,7 @@
 .lrhyty.weeronline.nl
 .lritaly.wolterskluwer.com
 .lrjnbf.sabon.co.jp
+.lrkt-in.com
 .lrnetherlands.wolterskluwer.com
 .lrp7.carrefour-banque.fr
 .lrpoland.wolterskluwer.com
@@ -19890,6 +19901,7 @@
 .mas.hronboard.me
 .mas.marsh.com
 .mas.nth.ch
+.master.cifraclub.com.br
 .masternaut.actonservice.com
 .mastertag.kpcustomer.de
 .mastertag.q-sis.de
@@ -21201,6 +21213,7 @@
 .metrics.parcelforce.com
 .metrics.patientsatheart.com
 .metrics.paysafecard.com
+.metrics.pazzox.be
 .metrics.pcrichard.com
 .metrics.pebblebeach.com
 .metrics.penny-reisen.de
@@ -22737,7 +22750,6 @@
 .om.zdnet.com.au
 .omadi.actonservice.com
 .omahasteaks.com.102.122.207.net
-.omappapi.com
 .omcshw.pharmasi.it
 .ometrics.ameds.com
 .ometrics.netapp.com
@@ -23001,6 +23013,7 @@
 .oph7o.montecarlosbm-corporate.com
 .ophan.theguardian.com
 .opim.pixmania.com
+.oply.hearstapps.com
 .opo4.assuronline.com
 .opoffice.actonservice.com
 .opportunity.businessbroker.net
@@ -23994,6 +24007,7 @@
 .profiling.plannja.com
 .profiling.ruukki.com
 .profit.edc.ca
+.proftrafficcounter.com
 .progmxs.com
 .programmes-skema.skema-bs.fr
 .programmes-skema.skema.edu
@@ -24084,6 +24098,7 @@
 .pubstr.chemrxiv.org
 .puiwrs.misterspex.de
 .pulsar.ebay.com
+.pulse.ecmapps.com
 .pulse.munsonhealthcare.org
 .pulse.shopflo.com
 .pumlmb.netcologne.de
@@ -30721,6 +30736,7 @@
 .sspkbf.ragtag.jp
 .ssr.streamrail.net
 .ssrlot.lotoquebec.com
+.sst.babypark.nl
 .sst.colemanfurniture.com
 .sst.cooperativa.cl
 .sst.shopware.com
@@ -32982,6 +32998,7 @@
 .tagcommander.laredoute.ch
 .tagger.ope.scmp.com
 .tagger.opecloud.com
+.tagging.sliponline.nl
 .tagging.steelseries.com
 .tagm.eduscho.at
 .tagm.tchibo.de
@@ -33364,6 +33381,7 @@
 .te.your-look-for-less.nl
 .te.your-look-for-less.se
 .teach.graduateprogram.org
+.tealium-proxy.libertex.org
 .team.moxtra.com
 .teamhodges.hodgesualumniandfriends.com
 .teammate.arclogics.com
@@ -33614,6 +33632,7 @@
 .tj.img4399.com
 .tjbhng.hemington.com.tr
 .tjitde.dodo.it
+.tjk-njk.com
 .tjnffp.tilebar.com
 .tjwpfr.unitrailer.de
 .tjyrup.templeandwebster.com.au
@@ -36588,6 +36607,7 @@
 .tvuaeb.taqi.com.br
 .tw-go.experian.com
 .tw.cx
+.tw.reppublika.com
 .tw.spiriteq.com
 .twdhec.marioeletro.com
 .tweetdeck.net.anwalt.de
@@ -36600,6 +36620,7 @@
 .twjobq.sixt.fr
 .twjobq.sixt.nl
 .twkbui.mansion-review.jp
+.two.tio.nl
 .twoeej.carrefour.fr
 .twsdne.petenkoiratarvike.com
 .tx-br-cdn.kwai.net.iberostar.com
@@ -36666,6 +36687,7 @@
 .ubpekn.sivillage.com
 .ubqjbd.daviddonahue.com
 .ubrihx.allbirds.jp
+.ubt-sgp.travix.com
 .ubuyanalytics.ubuy.com
 .ubvsjh.pointtown.com
 .ubyjor.distrelec.ch
@@ -36770,6 +36792,7 @@
 .ulutlv.esprit.fr
 .um.contentstudio.io
 .umami.aigenerations.net
+.umami.heroku.uk
 .umami.wakarimasen.moe
 .umazvs.raybiotech.com
 .umdlbn.globetrotter.de
@@ -37886,6 +37909,7 @@
 .webmetrics.turnwrench.com
 .webmetrics.zebra.com
 .webpixel.smartmeapp.com
+.webpushstat.api.engagelab.cc
 .webs.hammacher.com
 .websdk.appsflyer.com
 .websdkmetrics.blackrock.com
