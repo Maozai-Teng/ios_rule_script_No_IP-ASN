@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-19 02:13:09
+# UPDATED: 2025-06-01 02:14:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6477
@@ -589,7 +589,6 @@
 .bestvpnusa.com
 .bet365.com
 .betaclouds.net
-.betfair.com
 .betternet.co
 .bettervpn.com
 .bettween.com
@@ -4481,6 +4480,7 @@
 .redchinacn.org
 .redd.it
 .reddit.com
+.reddithelp.com
 .redditlist.com
 .redditmedia.com
 .redditspace.com

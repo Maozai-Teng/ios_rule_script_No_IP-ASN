@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-19 02:13:09
+# UPDATED: 2025-06-01 02:14:24
 # HOST: 19
 # HOST-KEYWORD: 26
 # HOST-SUFFIX: 6957
@@ -624,7 +624,6 @@ HOST-SUFFIX,bestvpnservice.com,Proxy
 HOST-SUFFIX,bestvpnusa.com,Proxy
 HOST-SUFFIX,bet365.com,Proxy
 HOST-SUFFIX,betaclouds.net,Proxy
-HOST-SUFFIX,betfair.com,Proxy
 HOST-SUFFIX,betternet.co,Proxy
 HOST-SUFFIX,bettervpn.com,Proxy
 HOST-SUFFIX,bettween.com,Proxy
@@ -4925,6 +4924,7 @@ HOST-SUFFIX,redchinacn.net,Proxy
 HOST-SUFFIX,redchinacn.org,Proxy
 HOST-SUFFIX,redd.it,Proxy
 HOST-SUFFIX,reddit.com,Proxy
+HOST-SUFFIX,reddithelp.com,Proxy
 HOST-SUFFIX,redditlist.com,Proxy
 HOST-SUFFIX,redditmedia.com,Proxy
 HOST-SUFFIX,redditspace.com,Proxy
