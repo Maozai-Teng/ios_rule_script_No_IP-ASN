@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2025-06-22 02:11:56
+desc: 最后更新时间 2025-06-28 02:12:17
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1234
-# mitm: 904
+# reject: 1233
+# mitm: 903
 # force-http-engine-hosts: 6
-# total: 2144
+# total: 2142
 
 
 
@@ -583,7 +583,6 @@ http:
     - ^https?:\/\/direct\.z-bank\.com\/portal\/AdvertImageDownLoad4Mobile\.do - reject
     - ^https?:\/\/discuz\.gtimg\.cn\/cloud\/scripts\/discuz_tips\.js - reject
     - ^https?:\/\/dispatcher\.camera360\.com\/api\/v1\/list$ - reject
-    - ^https?:\/\/display-sc\.miguvideo\.com\/display\/v3\/static\/PERSONAL_CENTER - reject
     - ^https?:\/\/display\.wting\.info\/.*.jpeg - reject
     - ^https?:\/\/dj\.palmestore\.com\/zybk\/api\/ad - reject
     - ^https?:\/\/djcapp\.game\.qq\.com\/daoju\/igw\/main\/\?_service=welink\.ad\.list - reject
@@ -657,7 +656,7 @@ http:
     - ^https?:\/\/gfp\.veta\.naver\.com\/adcall\? - reject
     - ^https?:\/\/ggc\.miguvideo\.com\/v1\/iflyad\/deliverysystem\/direct\/ - reject
     - ^https?:\/\/ggic\d+.miguvideo\.com\/ad\/ - reject
-    - ^https?:\/\/ggx\d+\.miguvideo\.com\/request\/sdk - reject
+    - ^https?:\/\/ggx.+\.miguvideo\.com\/request\/sdk.+[^?]*$ - reject
     - ^https?:\/\/gha\.ghac\.cn\:8081\/base\/app\/api\/ad\/query\?adType - reject
     - ^https?:\/\/go\.babytree\.com\/go_pregnancy\/api\/index_activity\/get_app_index_activity - reject
     - ^https?:\/\/goblin\.hupu\.com\/.+\/interfaceAd\/getOther - reject
@@ -1612,7 +1611,6 @@ http:
     - "direct.z-bank.com"
     - "discuz.gtimg.cn"
     - "dispatcher.camera360.com"
-    - "display-sc.miguvideo.com"
     - "display.wting.info"
     - "dj.palmestore.com"
     - "djcapp.game.qq.com"
@@ -1683,7 +1681,7 @@ http:
     - "gfp.veta.naver.com"
     - "ggc.miguvideo.com"
     - "ggic*.miguvideo.com"
-    - "ggx*.miguvideo.com"
+    - "ggx.miguvideo.com"
     - "gha.ghac.cn"
     - "go.babytree.com"
     - "goblin.hupu.com"
