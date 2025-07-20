@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-12 02:07:23
+# UPDATED: 2025-07-20 02:07:30
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31560
+# DOMAIN-SUFFIX: 31562
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31823
+# TOTAL: 31825
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -2021,6 +2021,7 @@ payload:
   - '+.apyle.com'
   - '+.aqmen.ac.uk'
   - '+.aquinas.ac.uk'
+  - '+.ar.hao123.com'
   - '+.arabianchicks.com'
   - '+.arabidopsis.org'
   - '+.arabnek.com'
@@ -16930,6 +16931,7 @@ payload:
   - '+.onlyprime.ru'
   - '+.onlysiterip.com'
   - '+.onmanorama.com'
+  - '+.onmypc.net'
   - '+.onsalekey.com'
   - '+.onsaletrend.com'
   - '+.onstream.cc'
@@ -24131,6 +24133,7 @@ payload:
   - '+.xinfhw.com'
   - '+.xing66.life'
   - '+.xing840.info'
+  - '+.xinggan77.vip'
   - '+.xingrz.me'
   - '+.xinlan995.xyz'
   - '+.xinmeitulu.com'
@@ -25577,7 +25580,6 @@ payload:
   - '+.appspot.com'
   - '+.appsto.re'
   - '+.aptoide.com'
-  - '+.ar.hao123.com'
   - '+.arcgis.com'
   - '+.archive.fo'
   - '+.archive.is'
@@ -29181,7 +29183,6 @@ payload:
   - '+.onmoon.net'
   - '+.onmypc.biz'
   - '+.onmypc.info'
-  - '+.onmypc.net'
   - '+.onmypc.org'
   - '+.onmypc.us'
   - '+.onthehunt.com'
@@ -31380,6 +31381,7 @@ payload:
   - '+.wuyanblog.com'
   - '+.wwe.com'
   - '+.wwitv.com'
+  - '+.www.xicons.org'
   - '+.www1.biz'
   - '+.wwwhost.biz'
   - '+.wzyboy.im'
