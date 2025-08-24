@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-16 02:07:53
+# UPDATED: 2025-08-24 02:07:17
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31571
+# DOMAIN-SUFFIX: 31586
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31834
+# TOTAL: 31849
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -9566,6 +9566,7 @@ payload:
   - '+.ggoogle.com'
   - '+.ggpds.com'
   - '+.ggsrv.com'
+  - '+.gh.io'
   - '+.ghbi.ir'
   - '+.ghettotube.com'
   - '+.ghil.ac.uk'
@@ -9616,6 +9617,7 @@ payload:
   - '+.girlsxxx.net'
   - '+.gisplanning.com'
   - '+.git-scm.com'
+  - '+.github.ai'
   - '+.github.blog'
   - '+.github.com'
   - '+.github.community'
@@ -12965,6 +12967,7 @@ payload:
   - '+.keepyourcad.com'
   - '+.keiba.net'
   - '+.keighleycollege.ac.uk'
+  - '+.kemono.cr'
   - '+.kemono.party'
   - '+.kemono.su'
   - '+.kendal.ac.uk'
@@ -15292,6 +15295,7 @@ payload:
   - '+.moviesneek.com'
   - '+.movinghistory.ac.uk'
   - '+.movingmedicine.ac.uk'
+  - '+.mox.moe'
   - '+.moxing.mobi'
   - '+.moxing.news'
   - '+.moystoys.com'
@@ -15577,6 +15581,7 @@ payload:
   - '+.mypearsonenglish.ch'
   - '+.mypearsonshop.com.mx'
   - '+.mypearsonshop.mx'
+  - '+.mypikpak.net'
   - '+.myplace.ac.uk'
   - '+.mypornads.com'
   - '+.mypornadviser.com'
@@ -15733,7 +15738,6 @@ payload:
   - '+.naughtysophie.com'
   - '+.naughtytugs.com'
   - '+.naughtywomenpics.com'
-  - '+.naver.com'
   - '+.naver.me'
   - '+.naver.net'
   - '+.naverads.com'
@@ -23290,6 +23294,7 @@ payload:
   - '+.vodafone.it'
   - '+.voila.ac.uk'
   - '+.vokevr.com'
+  - '+.vol.moe'
   - '+.volstudy.ac.uk'
   - '+.volvo-truck.nl'
   - '+.volvo.ca'
@@ -26448,6 +26453,7 @@ payload:
   - '+.cotweet.com'
   - '+.counter.social'
   - '+.coursehero.com'
+  - '+.covenantswatch.org.tw'
   - '+.coze.com'
   - '+.cpj.org'
   - '+.cpu-monkey.com'
@@ -26604,6 +26610,7 @@ payload:
   - '+.delicious.com'
   - '+.democrats.org'
   - '+.demosisto.hk'
+  - '+.deno.dev'
   - '+.depositphotos.com'
   - '+.desc.se'
   - '+.desipro.de'
@@ -27281,6 +27288,7 @@ payload:
   - '+.furhhdl.org'
   - '+.furinkan.com'
   - '+.furl.net'
+  - '+.furrybar.com'
   - '+.futurechinaforum.org'
   - '+.futuremessage.org'
   - '+.fux.com'
@@ -28090,6 +28098,7 @@ payload:
   - '+.itemfix.com'
   - '+.itgonglun.com'
   - '+.ithome.com.tw'
+  - '+.itiger.com'
   - '+.itsaol.com'
   - '+.itshidden.com'
   - '+.itsky.it'
@@ -28939,6 +28948,7 @@ payload:
   - '+.nationsonline.org'
   - '+.nationwide.com'
   - '+.naughtyamerica.com'
+  - '+.naver.com'
   - '+.naver.jp'
   - '+.navy.mil'
   - '+.naweeklytimes.com'
@@ -29309,6 +29319,7 @@ payload:
   - '+.paljorpublications.com'
   - '+.palmislife.com'
   - '+.paltalk.com'
+  - '+.pancakeswap.finance'
   - '+.pandafan.pub'
   - '+.pandapow.co'
   - '+.pandapow.net'
@@ -29384,6 +29395,7 @@ payload:
   - '+.perplexity.ai'
   - '+.persecutionblog.com'
   - '+.persiankitty.com'
+  - '+.pewresearch.org'
   - '+.pfd.org.hk'
   - '+.phapluan.org'
   - '+.phayul.com'
@@ -29527,6 +29539,7 @@ payload:
   - '+.prisoneralert.com'
   - '+.pritunl.com'
   - '+.privacybox.de'
+  - '+.privacyguides.org'
   - '+.private.com'
   - '+.privateinternetaccess.com'
   - '+.privatepaste.com'
@@ -30286,6 +30299,7 @@ payload:
   - '+.suyangg.com'
   - '+.svsfx.com'
   - '+.swagbucks.com'
+  - '+.swapspace.co'
   - '+.swissinfo.ch'
   - '+.swissvpn.net'
   - '+.switch1.jp'
@@ -30897,6 +30911,7 @@ payload:
   - '+.udn.com.tw'
   - '+.udnbkk.com'
   - '+.udndata.com'
+  - '+.udomain.hk'
   - '+.uforadio.com.tw'
   - '+.ufreevpn.com'
   - '+.ugo.com'
