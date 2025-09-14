@@ -21,19 +21,19 @@
 
 ## 规则统计
 
-最后更新时间：2025-09-06 02:09:34
+最后更新时间：2025-09-14 02:09:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 278  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 117545  | 
+| DOMAIN-SUFFIX | 117302  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8068  | 
-| IP-CIDR6 | 12148  | 
+| IP-CIDR | 8085  | 
+| IP-CIDR6 | 12184  | 
 | PROCESS-NAME | 14  | 
-| TOTAL | 138067  | 
+| TOTAL | 137877  | 
 
 
 ## Clash 
