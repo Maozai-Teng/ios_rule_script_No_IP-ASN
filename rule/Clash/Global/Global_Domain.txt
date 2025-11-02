@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-26 02:08:13
+# UPDATED: 2025-11-02 02:07:50
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31967
+# DOMAIN-SUFFIX: 31980
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32234
+# TOTAL: 32247
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -6370,6 +6370,7 @@ login.microsoftonline.com
 .deeper.com
 .deepfake-porn.com
 .deepfakeporn.net
+.deepflood.com
 .deepfreeze.co.uk
 .deepfreeze.com
 .deepfreeze.com.br
@@ -6957,6 +6958,7 @@ login.microsoftonline.com
 .dlfacebook.com
 .dlhe.ac.uk
 .dlib.eastview.com
+.dln1.ncdn.ec
 .dls.ac.uk
 .dlsite.com.tw
 .dlsitenews.com
@@ -10506,6 +10508,7 @@ login.microsoftonline.com
 .gynoexam.info
 .gyutte.site
 .gyutto.com
+.h-chan.me
 .h-doujinshi.xyz
 .h-flash.com
 .h-top.supertop-100.com
@@ -10804,6 +10807,8 @@ login.microsoftonline.com
 .hentai-ani.me
 .hentai-archive.com
 .hentai-books.com
+.hentai-chan.com
+.hentai-chan.live
 .hentai-cosplays.com
 .hentai-covers.site
 .hentai-eroanime.net
@@ -10848,6 +10853,8 @@ login.microsoftonline.com
 .hentaibar.com
 .hentaiblue.com
 .hentaibros.com
+.hentaichan.live
+.hentaichan.me
 .hentaicity.com
 .hentaicloud.com
 .hentaiclub.net
@@ -12038,6 +12045,7 @@ login.microsoftonline.com
 .imgcrl.org
 .imgix.com
 .imgix.net
+.imgschan.xyz
 .imgsmail.ru
 .imgur.io
 .imgurinc.com
@@ -13061,6 +13069,7 @@ login.microsoftonline.com
 .joiasmr.com
 .joinmaidez.com
 .joinside.org
+.joinsquad.com
 .joinup.ac.uk
 .jokerlu-go.buzz
 .jokerlu.asia
@@ -17138,6 +17147,8 @@ login.microsoftonline.com
 .offresspecialesbmw.ca
 .offrezdesipods.com
 .offshorerenewables.ac.uk
+.offworldindustries.com
+.offworldindustries.net
 .ofs.ac.uk
 .ogakikyoritsu.co.jp
 .ogameblog.com
@@ -23868,6 +23879,7 @@ login.microsoftonline.com
 .vxnbbrs.xyz
 .vxxsred.xyz
 .w-mt.co
+.w0512.com
 .w6un.com
 .wa.me
 .waa.tw
@@ -24719,6 +24731,7 @@ login.microsoftonline.com
 .xshaker.net
 .xshr.online
 .xsijishe.com
+.xsijishe.net
 .xslist.org
 .xsrxpwvg.com
 .xstas.biz

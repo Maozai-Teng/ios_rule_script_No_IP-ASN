@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-26 02:08:14
+# UPDATED: 2025-11-02 02:07:50
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31967
+# DOMAIN-SUFFIX: 31980
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 32279
+# TOTAL: 32292
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -7581,6 +7581,7 @@
 .deeper.com
 .deepfake-porn.com
 .deepfakeporn.net
+.deepflood.com
 .deepfreeze.co.uk
 .deepfreeze.com
 .deepfreeze.com.br
@@ -8234,6 +8235,7 @@
 .dlhe.ac.uk
 .dlib.eastview.com
 .dlive.tv
+.dln1.ncdn.ec
 .dls.ac.uk
 .dlsite.com
 .dlsite.com.tw
@@ -12711,6 +12713,7 @@
 .gyutto.com
 .gzm.tv
 .gzone-anime.info
+.h-chan.me
 .h-china.org
 .h-doujinshi.xyz
 .h-flash.com
@@ -13072,6 +13075,8 @@
 .hentai-ani.me
 .hentai-archive.com
 .hentai-books.com
+.hentai-chan.com
+.hentai-chan.live
 .hentai-cosplays.com
 .hentai-covers.site
 .hentai-eroanime.net
@@ -13117,6 +13122,8 @@
 .hentaibar.com
 .hentaiblue.com
 .hentaibros.com
+.hentaichan.live
+.hentaichan.me
 .hentaicity.com
 .hentaicloud.com
 .hentaiclub.net
@@ -14628,6 +14635,7 @@
 .imgix.com
 .imgix.net
 .imgmega.com
+.imgschan.xyz
 .imgsmail.ru
 .imgur.com
 .imgur.io
@@ -15884,6 +15892,7 @@
 .joinmastodon.org
 .joins.com
 .joinside.org
+.joinsquad.com
 .joinup.ac.uk
 .jokerlu-go.buzz
 .jokerlu.asia
@@ -20947,6 +20956,8 @@
 .offresspecialesbmw.ca
 .offrezdesipods.com
 .offshorerenewables.ac.uk
+.offworldindustries.com
+.offworldindustries.net
 .ofile.org
 .ofs.ac.uk
 .ogakikyoritsu.co.jp
@@ -29676,6 +29687,7 @@
 .w-pool.com
 .w.org
 .w.wiki
+.w0512.com
 .w3.org
 .w3s.link
 .w3schools.com
@@ -30839,6 +30851,7 @@
 .xshaker.net
 .xshr.online
 .xsijishe.com
+.xsijishe.net
 .xskywalker.com
 .xskywalker.net
 .xslist.org
