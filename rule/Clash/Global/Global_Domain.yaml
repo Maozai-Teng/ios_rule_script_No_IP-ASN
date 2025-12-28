@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-20 02:07:58
+# UPDATED: 2025-12-28 02:07:50
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32340
+# DOMAIN-SUFFIX: 32363
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32610
+# TOTAL: 32633
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -154,6 +154,7 @@ payload:
   - '+.112263.com'
   - '+.114av.xyz'
   - '+.114bank.co.jp'
+  - '+.119474.xyz'
   - '+.11jav.com'
   - '+.123-hp.com'
   - '+.123bin.cc'
@@ -5800,6 +5801,7 @@ payload:
   - '+.colliderporn.com'
   - '+.collins.co.uk'
   - '+.collins.in'
+  - '+.collinsdictionary.com'
   - '+.collyers.ac.uk'
   - '+.colombianas.webcam'
   - '+.colorfulstage.com'
@@ -7030,6 +7032,8 @@ payload:
   - '+.dm-event.net'
   - '+.dmed.technology'
   - '+.dmgmediaprivacy.co.uk'
+  - '+.dmit.io'
+  - '+.dmit.sh'
   - '+.dml-lang.org'
   - '+.dml.ac.uk'
   - '+.dmm-extension.com'
@@ -8061,6 +8065,7 @@ payload:
   - '+.entrustdatacard.com'
   - '+.enveast.ac.uk'
   - '+.environment-health.ac.uk'
+  - '+.eotarchive.org'
   - '+.epa.gov.tw'
   - '+.epc.ac.uk'
   - '+.epic.ac.uk'
@@ -9601,6 +9606,7 @@ payload:
   - '+.futhead.com'
   - '+.futpromos.com'
   - '+.futuhk.com'
+  - '+.futuhkapp.com'
   - '+.futuholdings.com'
   - '+.futunited.com'
   - '+.future-media.ac.uk'
@@ -9920,6 +9926,7 @@ payload:
   - '+.ghbi.ir'
   - '+.ghettotube.com'
   - '+.ghil.ac.uk'
+  - '+.ghostarchive.org'
   - '+.ghostgames.com'
   - '+.ghtv666.top'
   - '+.giantessbooru.com'
@@ -13780,6 +13787,7 @@ payload:
   - '+.lcuck.ac.uk'
   - '+.lcwc.ac.uk'
   - '+.ldoc-cdt.ac.uk'
+  - '+.ldoceonline.com'
   - '+.ldstatic.com'
   - '+.le-direct.tv'
   - '+.le.ac.uk'
@@ -14982,6 +14990,7 @@ payload:
   - '+.melonstube.com'
   - '+.meme111.com'
   - '+.memealerts.com'
+  - '+.mementoweb.org'
   - '+.men.com'
   - '+.men18.net'
   - '+.menai.ac.uk'
@@ -14990,6 +14999,7 @@ payload:
   - '+.mendeley.com'
   - '+.mengnan.shop'
   - '+.menhdv.com'
+  - '+.mensheaven.jp'
   - '+.menshin-channel.com'
   - '+.meoriental.com'
   - '+.meplg.ac.uk'
@@ -16533,6 +16543,7 @@ payload:
   - '+.newmonst1erbeatsto1re.com'
   - '+.newmonsterbeatsheadphones.com'
   - '+.newphd.ac.uk'
+  - '+.newpipe.net'
   - '+.newport.ac.uk'
   - '+.newpppp.com'
   - '+.newroutephd.ac.uk'
@@ -18104,6 +18115,7 @@ payload:
   - '+.perfecttitspics.com'
   - '+.performancescience.ac.uk'
   - '+.perl.org'
+  - '+.perma.cc'
   - '+.perplexity.com'
   - '+.persagg.com'
   - '+.pershore.ac.uk'
@@ -23291,6 +23303,7 @@ payload:
   - '+.usvimosquitoproject.com'
   - '+.usw.ac.uk'
   - '+.utcreading.ac.uk'
+  - '+.uug22.com'
   - '+.uug23.com'
   - '+.uug25.com'
   - '+.uug26.com'
@@ -24150,6 +24163,11 @@ payload:
   - '+.vpro.net'
   - '+.vrbgay.com'
   - '+.vrcams.io'
+  - '+.vrcdn.cloud'
+  - '+.vrcdn.live'
+  - '+.vrcdn.video'
+  - '+.vrchat.cloud'
+  - '+.vrchat.net'
   - '+.vred-essentials.com'
   - '+.vredessentials.com'
   - '+.vredprofessional.com'
@@ -24311,6 +24329,7 @@ payload:
   - '+.webcammedellin.co'
   - '+.webcams.tv'
   - '+.webcamtubexxx.com'
+  - '+.webcitation.org'
   - '+.webex.ca'
   - '+.webex.co.in'
   - '+.webex.co.it'
@@ -24332,6 +24351,7 @@ payload:
   - '+.webhosting.com'
   - '+.webkit.org'
   - '+.webkitgtk.org'
+  - '+.weblate.org'
   - '+.webmoneyinfo.com'
   - '+.webnovel.com'
   - '+.webobjects.co.uk'
@@ -29235,6 +29255,7 @@ payload:
   - '+.lotsawahouse.org'
   - '+.lotuslight.org.hk'
   - '+.lotuslight.org.tw'
+  - '+.lovart.ai'
   - '+.loved.hk'
   - '+.lovetvshow.com'
   - '+.lpsg.com'
@@ -29706,6 +29727,7 @@ payload:
   - '+.neo-miracle.com'
   - '+.neoforged.net'
   - '+.neowin.net'
+  - '+.nephobox.com'
   - '+.netalert.me'
   - '+.netbirds.com'
   - '+.netcolony.com'
@@ -30080,6 +30102,7 @@ payload:
   - '+.parler.com'
   - '+.parse.com'
   - '+.parsevideo.com'
+  - '+.partnerstack.xyz'
   - '+.passion.com'
   - '+.passiontimes.hk'
   - '+.paste.ee'
