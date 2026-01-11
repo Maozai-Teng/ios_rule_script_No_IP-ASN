@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-04 02:09:37
+# UPDATED: 2026-01-10 02:09:41
 # DOMAIN: 297
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 115446
+# DOMAIN-SUFFIX: 115449
 # IP-ASN: 1
-# IP-CIDR: 8266
-# IP-CIDR6: 4280
+# IP-CIDR: 8271
+# IP-CIDR6: 4286
 # USER-AGENT: 65
-# TOTAL: 128368
+# TOTAL: 128382
 .0.zone
 .00.net
 .000.link
@@ -19474,6 +19474,7 @@
 .cfachina.org
 .cfanlost.com
 .cfbond.com
+.cfc108.com
 .cfc365.com
 .cfca-c.org
 .cfccd.com
@@ -34993,6 +34994,7 @@
 .fnkvision.com
 .fnmobi.com
 .fnnas.com
+.fnnas.net
 .fnnsh.com
 .fnnspa.com
 .fnos.net
@@ -90008,6 +90010,7 @@
 .tapai.com
 .tapaijiu.com
 .tapapis.com
+.tapapks.com
 .tapbooster.net
 .tapd-app.com
 .tapdata.net
