@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-24 02:08:28
-# DOMAIN: 117
+# UPDATED: 2026-02-01 02:08:23
+# DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32581
+# DOMAIN-SUFFIX: 32606
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32851
+# TOTAL: 32875
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -79,7 +79,6 @@ practivate.adobe
 practivate.adobe.ipp
 practivate.adobe.newoa
 practivate.adobe.ntp
-pubg1.battleye.com
 public-us-pingsx.api.clonoth.com
 push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
@@ -143,6 +142,7 @@ login.microsoftonline.com
 +.101boyvideos.com
 +.101tubeporn.com
 +.101xxx.xyz
++.1024terabox.com
 +.10bet.com
 +.10c10qoo.one
 +.10xfotolia.com
@@ -2212,7 +2212,9 @@ login.microsoftonline.com
 +.ark.to
 +.arm.ac.uk
 +.arma.ac.uk
++.arma3.com
 +.armagh.ac.uk
++.armaplatform.com
 +.armovs.com
 +.arnold-carlton.ac.uk
 +.arnoldrenderer.com
@@ -2353,11 +2355,13 @@ login.microsoftonline.com
 +.ateam-oracle.com
 +.athens.ac.uk
 +.atkgallery.com
++.atl-paas.net
 +.atlantaminidealers.com
 +.atlars.ac.uk
 +.atlas.ac.uk
 +.atlasdmt.com
 +.atlasonepoint.com
++.atlassian-dev.net
 +.atlassian.com
 +.atlassian.net
 +.atom.io
@@ -2915,6 +2919,7 @@ login.microsoftonline.com
 +.battlefront2.com
 +.battlefrontii.com
 +.battlelog.com
++.battleye.com
 +.bavs.ac.uk
 +.baxsound.com
 +.bayareabmw.com
@@ -3362,6 +3367,7 @@ login.microsoftonline.com
 +.bestbuytradein.com
 +.bestbuyus.com
 +.bestcamsites.net
++.bestclouddrive.com
 +.besterpornos.com
 +.bestescortgirls.nl
 +.bestfreecams.club
@@ -3556,6 +3562,7 @@ login.microsoftonline.com
 +.binance.vision
 +.binanceapi.com
 +.binancecnt.com
++.binanceru.net
 +.binancezh.be
 +.binancezh.biz
 +.binancezh.co
@@ -3621,6 +3628,7 @@ login.microsoftonline.com
 +.bisi.ac.uk
 +.bisq.io
 +.bisq.network
++.bistudio.com
 +.bisyoujyogyaruge.topaz.ne.jp
 +.bitballoon.com
 +.bitbank.cc
@@ -4257,6 +4265,7 @@ login.microsoftonline.com
 +.bodyfluids-jav.com
 +.bognor-training.ac.uk
 +.bognor.ac.uk
++.bohemia.net
 +.boj.or.jp
 +.bokep.net
 +.bokepseks.org
@@ -6145,6 +6154,7 @@ login.microsoftonline.com
 +.criticalfriend.ac.uk
 +.criticaltheology.ac.uk
 +.critiquebrainz.org
++.crixet.com
 +.crmdynint-gcc.com
 +.crmdynint.com
 +.crocels.ac.uk
@@ -6458,6 +6468,7 @@ login.microsoftonline.com
 +.daylenerio.com
 +.daytonbmw.com
 +.daytontrucktires.com
++.dayz.com
 +.dazn-api.com
 +.dazndn.com
 +.daznfeeds.com
@@ -9294,6 +9305,9 @@ login.microsoftonline.com
 +.fotolja.com
 +.fotoscaserasx.com
 +.foundationdb.org
++.foundationdns.com
++.foundationdns.net
++.foundationdns.org
 +.foundationyear.ac.uk
 +.fourthns.systems
 +.fox-corporation.com
@@ -13247,6 +13261,7 @@ login.microsoftonline.com
 +.jinmantiankong.com
 +.jinnaju.com
 +.jinsilubanzhao.com
++.jira.com
 +.jisc-collections.ac.uk
 +.jisc-content.ac.uk
 +.jisc-liberate-migrate1.ac.uk
@@ -14660,6 +14675,7 @@ login.microsoftonline.com
 +.mairbeats.com
 +.makaan.com
 +.makeanything.com
++.makearmanotwar.com
 +.makebettercode.com
 +.makecode.org
 +.makeitopen.com
@@ -17785,6 +17801,7 @@ login.microsoftonline.com
 +.osmosis.ac.uk
 +.ospray.net
 +.ospray.org
++.ospserver.net
 +.oss-ap-northeast-1.aliyuncs.com
 +.oss-ap-northeast-2.aliyuncs.com
 +.oss-ap-south-1.aliyuncs.com
@@ -20944,6 +20961,7 @@ login.microsoftonline.com
 +.sihe.ac.uk
 +.sikh-uni.ac.uk
 +.sikiswap.com
++.silicagame.com
 +.silicon-mobility.com
 +.siliconmobility.com
 +.silkengirl.com
@@ -21530,6 +21548,7 @@ login.microsoftonline.com
 +.srttu.edu
 +.sruc.ac.uk
 +.srwwu.uno
++.ss-inf.net
 +.ss2.us
 +.ss7.app
 +.ssdevrd.com
@@ -22321,6 +22340,7 @@ login.microsoftonline.com
 +.tempusuk.ac.uk
 +.tenbyfotolia.com
 +.tentowns.ac.uk
++.terabox1024.com
 +.terapeack.com
 +.terapeak.ca
 +.terapeak.com
@@ -23843,6 +23863,7 @@ login.microsoftonline.com
 +.viewerswives.net
 +.viewgals.com
 +.viewpointsfromfacebook.com
++.vigorgame.com
 +.vikiporn.com
 +.vilavpn.xyz
 +.vilavpn1.xyz
@@ -25677,7 +25698,6 @@ login.microsoftonline.com
 +.yeyuehuachao11.com
 +.yeyuehuachao12.com
 +.yeyuehuachao13.com
-+.yfsp.tv
 +.yft-mv.sbs
 +.ygugu4.com
 +.yhelln.ac.uk
@@ -25699,6 +25719,7 @@ login.microsoftonline.com
 +.yiqiedoushiganggangkaishi.org
 +.yiyechat.com
 +.yjcontentdelivery.com
++.ylands.com
 +.ymail.com
 +.ymca-wales.ac.uk
 +.ymca.ac.uk
@@ -28165,6 +28186,7 @@ login.microsoftonline.com
 +.freess.org
 +.freessh.us
 +.freetcp.com
++.freeterabox.com
 +.freetibet.net
 +.freetibet.org
 +.freetibetanheroes.org
@@ -30984,6 +31006,7 @@ login.microsoftonline.com
 +.sijihuisuo.com
 +.silkbook.com
 +.silvergatebank.com
++.simianx.ai
 +.simp.ly
 +.simplecd.me
 +.simplecd.org
@@ -32556,6 +32579,7 @@ login.microsoftonline.com
 +.yesasia.com
 +.yesasia.com.hk
 +.yeyeclub.com
++.yfsp.tv
 +.ygto.com
 +.yhcw.net
 +.yibada.com
