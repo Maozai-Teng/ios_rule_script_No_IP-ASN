@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-01 02:08:22
+# UPDATED: 2026-02-08 02:09:39
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32606
+# DOMAIN-SUFFIX: 32621
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32921
+# TOTAL: 32936
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -3347,6 +3347,7 @@
 .bbc.in
 .bbc.mp-pxcdn.com
 .bbc.net.uk
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -4180,6 +4181,7 @@
 .bitstamp.net
 .bitstream.com
 .bitterwinter.org
+.bittorrent.com
 .bittrex.com
 .bitvise.com
 .bitwarden.com
@@ -5219,6 +5221,7 @@
 .bs-adreview.com
 .bs-awh.ne.jp
 .bsa.ac.uk
+.bsappapi.com
 .bsaw.ac.uk
 .bsbec.ac.uk
 .bsdc.ac.uk
@@ -12840,6 +12843,7 @@
 .grimsbytec.ac.uk
 .grindr.com
 .grok.com
+.grokipedia.com
 .grooby.com
 .groq.com
 .grotty-monday.com
@@ -13328,6 +13332,7 @@
 .helpster.de
 .helpuyghursnow.org
 .helpzhuling.org
+.hembed.com
 .hendon.ac.uk
 .henley-cov.ac.uk
 .henley.ac.uk
@@ -17547,6 +17552,7 @@
 .lou.ac.uk
 .loucoll.ac.uk
 .loughborough.ac.uk
+.louisvuitton.com
 .lovart.ai
 .love-sextoys.co.uk
 .love4porn.com
@@ -17985,6 +17991,8 @@
 .mantochichi.com
 .manufacturingedc.ac.uk
 .manurefetish.com
+.manus.im
+.manuscdn.com
 .manytoon.com
 .manyvids.com
 .manyvoices.news
@@ -21731,6 +21739,7 @@
 .osiri-suki-club.com
 .osl.com
 .osm.org
+.osmand.net
 .osmfoundation.org
 .osmosis.ac.uk
 .ospray.net
@@ -22463,8 +22472,6 @@
 .piirus.ac.uk
 .pikabu.monster
 .pikpak.io
-.pikpak.me
-.pikpakdrive.com
 .pilgrimageandcathedrals.ac.uk
 .pilgrimagestudies.ac.uk
 .pillbeatsblackfridaysale.com
@@ -22590,6 +22597,7 @@
 .pjbyj.top
 .pjful-app.lol
 .pjgirls.com
+.pjsekai.sega.jp
 .pk.com
 .pki-post.ch
 .pki-posta.ch
@@ -23754,6 +23762,7 @@
 .radgametools.com
 .radian6.com
 .radicalparty.org
+.radiko-cf.com
 .radiko.jp
 .radio-canada.ca
 .radio-en-ligne.fr
@@ -24650,6 +24659,7 @@
 .salebeatslasteststyle4you.com
 .saleblackfridaydrebeats.com
 .salecheaphandbags.com
+.salesforce-setup.com
 .salesforce.com
 .salesforce.org
 .salesforceiq.com
@@ -25050,6 +25060,7 @@
 .seevic.ac.uk
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .sefton-acl.ac.uk
 .sefton.ac.uk
 .sego8.cc
@@ -25772,6 +25783,7 @@
 .sketchbooknews.com
 .sketchbookpro.com
 .sketchfab.com
+.skills.sh
 .skillsbridge.ac.uk
 .skillscompetitionwales.ac.uk
 .skillsgroupuk.ac.uk
@@ -25893,6 +25905,7 @@
 .smartonerobotics.com
 .smartonesolutions.com.hk
 .smartonesolutions.hk
+.smartstream.ne.jp
 .smashed.xxx
 .smbc.co.jp
 .smbctb.co.jp
@@ -27190,6 +27203,7 @@
 .taiav.com
 .tail-f.com
 .tailf.com
+.tails.net
 .tailscale.com
 .tailscale.io
 .tailwindtraders.com
@@ -29265,6 +29279,7 @@
 .v.gd
 .v.roucdn
 .v2.help
+.v2.hysteria.network
 .v2ex.co
 .v2ex.com
 .v2fly.org
