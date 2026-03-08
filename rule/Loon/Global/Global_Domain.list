@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-28 02:14:14
-# DOMAIN: 118
+# UPDATED: 2026-03-08 02:08:12
+# DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32870
+# DOMAIN-SUFFIX: 32894
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 33186
+# TOTAL: 33211
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -2603,6 +2603,7 @@
 .area120.com
 .area51.to
 .areca-backup.org
+.arena.ai
 .arena.taipei
 .arethusa.su
 .arewereadyyet.com
@@ -2664,6 +2665,7 @@
 .arunachalforests.gov.in
 .arupoc.ac.uk
 .arvanstorage.ir
+.arweave.org
 .arxiv.org
 .arzon.jp
 .as-hp.ca
@@ -8228,6 +8230,7 @@
 .diablo3.com
 .diabloimmortal.com
 .diabrowser.com
+.diabrowser.engineering
 .dialga.com
 .dialogflow.com
 .diamantewebcam.com
@@ -8531,6 +8534,7 @@
 .dl-laby.jp
 .dl.ac.uk
 .dl4d.ac.uk
+.dlaf.jp
 .dlap001.xyz
 .dlap301.com
 .dldlinks.com
@@ -8760,6 +8764,7 @@
 .dowjones.io
 .dowjoneson.com
 .download.com
+.download.dappcdn.com
 .download.qatp1.net
 .download.qcpp1.net
 .download.qpdp1.net
@@ -15004,6 +15009,7 @@
 .ilife.gr
 .ilife.wang
 .illawarramercury.com.au
+.illgames.jp
 .illianacomputerrecycling.com
 .illusion.co.jp
 .illusion.jp
@@ -15979,6 +15985,7 @@
 .janor6.net
 .janwongphoto.com
 .japan-forward.com
+.japan-illgames.com
 .japan-whores.com
 .japan18tube.com
 .japanbeast.com
@@ -16017,6 +16024,7 @@
 .jav.la
 .jav.land
 .jav.place
+.jav.sb
 .jav.si
 .jav.wine
 .jav01.cc
@@ -16092,6 +16100,7 @@
 .javheroine.com
 .javhihi.com
 .javhip.com
+.javhub.com
 .javhub.me
 .javhub.net
 .javhuge.com
@@ -16131,6 +16140,7 @@
 .javpub.me
 .javpush.com
 .javqd.com
+.javquick.com
 .javrank.com
 .javrate.com
 .javrave.club
@@ -16211,6 +16221,7 @@
 .jessicaturner.com
 .jetbra.in
 .jetbrains.ai
+.jetbrains.cloud
 .jetbrains.com
 .jetbrains.net
 .jetbrains.space
@@ -19786,6 +19797,7 @@
 .mut.ch
 .muthead.com
 .muther.ac.uk
+.muvluv-girls-garden.com
 .muycerdas.xxx
 .muyzorras.com
 .muzi.com
@@ -21736,6 +21748,7 @@
 .onlyams.com
 .onlycartoonsex.com
 .onlydudes.com
+.onlyfans.com
 .onlyfanspw.com
 .onlyfreelatinaporn.com
 .onlygayvideo.com
@@ -22845,6 +22858,10 @@
 .pleasurebabe.com
 .pleasuregirl.net
 .pleasuremore.com
+.plex.com
+.plex.services
+.plex.tv
+.plexapp.com
 .plexvpn.pro
 .plixi.com
 .plm.org.hk
@@ -25288,6 +25305,7 @@
 .senatehouselibrary.ac.uk
 .sendsmtp.com
 .sendspace.com
+.sendvid.com
 .seneporno.com
 .seniortgp.com
 .senpaiheat.com
@@ -28622,6 +28640,7 @@
 .tt-rss.org
 .tt1069.com
 .ttc.ac.uk
+.ttcdn-us.com
 .tte-lisa.ac.uk
 .tteshop.com
 .ttetraining.ac.uk
@@ -29417,6 +29436,7 @@
 .usvimosquitoproject.com
 .usw.ac.uk
 .utcreading.ac.uk
+.utdstc.com
 .utopianpal.com
 .uu-gg.com
 .uug22.com
@@ -31073,6 +31093,7 @@
 .wiserd.ac.uk
 .wisevid.com
 .wish.com
+.wispbyte.com
 .wistia.com
 .wistia.net
 .witcmi.ac.uk
@@ -32140,6 +32161,7 @@
 .yandexcloud.net
 .yandexcom.net
 .yandexmetrica.com
+.yandexwebcache.net
 .yandexwebcache.org
 .yanghengjun.com
 .yangjianli.com
@@ -32281,6 +32303,8 @@
 .youjism.com
 .youjizz.com
 .youjizz.sex
+.youla.io
+.youla.ru
 .youlucky.com
 .youmaker.com
 .youmind.ai
@@ -32995,4 +33019,5 @@ wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 yandex-pogoda.static-storage.net
 yangzhi.app
+youla-web-static.mrgcdn.ru
 ztedevices.com
