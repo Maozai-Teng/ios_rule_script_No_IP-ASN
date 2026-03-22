@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-10 02:18:50
+# UPDATED: 2026-03-22 02:10:04
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6581
+# DOMAIN-SUFFIX: 6586
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6721
+# TOTAL: 6726
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -161,6 +161,7 @@
 .a-normal-day.com
 .a5.com.ru
 .aamacau.com
+.aave.com
 .abc.com
 .abc.net.au
 .abc.pp.ru
@@ -1093,6 +1094,7 @@
 .churchinhongkong.org
 .chushigangdrug.ch
 .ci-en.jp
+.cia.gov
 .cici.com
 .ciciai.com
 .cienen.com
@@ -4016,8 +4018,10 @@
 .oizoblog.com
 .ok.ru
 .okayfreedom.com
+.okcoin.com
 .okex.com
 .okk.tw
+.oklink.com
 .okpool.me
 .okx.com
 .old-cat.net
@@ -6308,6 +6312,7 @@
 .xclient.info
 .xcritic.com
 .xda-developers.com
+.xdaforums.com
 .xeeno.com
 .xerotica.com
 .xfiles.to

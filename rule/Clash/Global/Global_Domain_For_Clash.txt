@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-14 02:13:36
+# UPDATED: 2026-03-22 02:09:42
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32911
+# DOMAIN-SUFFIX: 32928
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33183
+# TOTAL: 33200
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -684,7 +684,6 @@ login.microsoftonline.com
 +.aapl.tw
 +.aaschool.ac.uk
 +.aau.ac.uk
-+.aave.com
 +.aavs.xyz
 +.abank.com.mm
 +.abb.travel
@@ -3408,6 +3407,7 @@ login.microsoftonline.com
 +.beeg.rest
 +.beegfree.com
 +.beejp.net
++.beeline.tv
 +.beep.ac.uk
 +.bees.ac.uk
 +.beforeigners.com
@@ -3499,6 +3499,7 @@ login.microsoftonline.com
 +.bestbuyus.com
 +.bestcamsites.net
 +.bestclouddrive.com
++.bestdori.com
 +.besterpornos.com
 +.bestescortgirls.nl
 +.bestfreecams.club
@@ -6451,6 +6452,7 @@ login.microsoftonline.com
 +.curvyerotic.com
 +.cusp.ac.uk
 +.cusplondon.ac.uk
++.custhelp.com
 +.custom-iphonecase.com
 +.custombeatsbydrebuy.com
 +.custombeatsdeals.com
@@ -8500,6 +8502,7 @@ login.microsoftonline.com
 +.esopworld.com
 +.esp-scotland.ac.uk
 +.esp32.com
++.esp8266.com
 +.espa-headlines.ac.uk
 +.espa.ac.uk
 +.espadoldettol.com.ar
@@ -8511,6 +8514,7 @@ login.microsoftonline.com
 +.espnqa.com
 +.esports.gg
 +.esposasymaridos.com
++.espressif.com
 +.esrc.ac.uk
 +.esrcfestival.ac.uk
 +.esrcmanchesterfest.ac.uk
@@ -17310,6 +17314,7 @@ login.microsoftonline.com
 +.nochubank.or.jp
 +.nocn.ac.uk
 +.nocs.ac.uk
++.nodeget.com
 +.nodeimage.com
 +.nodejs.org
 +.nodequality.com
@@ -21736,6 +21741,7 @@ login.microsoftonline.com
 +.spiceworksstatic.com
 +.spicybigtits.com
 +.spicystory.net
++.spicywriter.com
 +.spider.ac.uk
 +.spiegel.de
 +.spinesurgeons.ac.uk
@@ -22936,6 +22942,11 @@ login.microsoftonline.com
 +.tiktokv.eu
 +.tiktokw.eu
 +.tiktokw.us
++.tilda.cc
++.tilda.ru
++.tilda.ws
++.tildaapi.com
++.tildacdn.com
 +.tilehill.ac.uk
 +.time.gov
 +.time.nrc.ca
@@ -25164,6 +25175,7 @@ login.microsoftonline.com
 +.woolitecarpet.com
 +.worc.ac.uk
 +.worcester.ac.uk
++.wordpress.net
 +.wordpress.org
 +.wordpress.tv
 +.workandhome.ac.uk
@@ -25359,7 +25371,6 @@ login.microsoftonline.com
 +.xcum.com
 +.xda-cdn.com
 +.xdaddy.in
-+.xdaforums.com
 +.xdaimages.com
 +.xdh999.one
 +.xdir.vip
@@ -26433,6 +26444,7 @@ login.microsoftonline.com
 +.zhuichaguoji.org
 +.zhuzhushipin-app.com
 +.zibacity.com
++.ziglang.org
 +.zigzag.kr
 +.zind.cloud
 +.zingtruyen.net
@@ -26678,6 +26690,7 @@ login.microsoftonline.com
 +.9to5mac.com
 +.a-normal-day.com
 +.aamacau.com
++.aave.com
 +.abc.com
 +.abc.net.au
 +.abc.xyz
@@ -27587,6 +27600,7 @@ login.microsoftonline.com
 +.churchinhongkong.org
 +.chushigangdrug.ch
 +.ci-en.jp
++.cia.gov
 +.cici.com
 +.ciciai.com
 +.cienen.com
@@ -30487,8 +30501,10 @@ login.microsoftonline.com
 +.oizoblog.com
 +.ok.ru
 +.okayfreedom.com
++.okcoin.com
 +.okex.com
 +.okk.tw
++.oklink.com
 +.okpool.me
 +.okx.com
 +.old-cat.net
@@ -32760,6 +32776,7 @@ login.microsoftonline.com
 +.xclient.info
 +.xcritic.com
 +.xda-developers.com
++.xdaforums.com
 +.xeeno.com
 +.xerotica.com
 +.xfiles.to

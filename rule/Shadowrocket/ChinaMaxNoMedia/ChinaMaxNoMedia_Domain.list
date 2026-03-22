@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-14 02:16:29
+# UPDATED: 2026-03-22 02:12:43
 # DOMAIN: 307
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 117722
+# DOMAIN-SUFFIX: 117719
 # IP-ASN: 1
-# IP-CIDR: 12548
+# IP-CIDR: 12571
 # USER-AGENT: 65
-# TOTAL: 130654
+# TOTAL: 130674
 .0.zone
 .00.net
 .000.link
@@ -34282,13 +34282,11 @@
 .esoua.com
 .esound.vip
 .esouou.com
-.esp8266.com
 .espeedpost.com
 .esplus.club
 .espnlol.com
 .esports-console.com
 .esportsreg.com
-.espressif.com
 .esr.com
 .essaystar.com
 .essca.com
@@ -74491,7 +74489,6 @@
 .okki.com
 .okktee.com
 .oklaapp.com
-.oklink.com
 .oklinklink.com
 .oklpoi.com
 .okmao.com
