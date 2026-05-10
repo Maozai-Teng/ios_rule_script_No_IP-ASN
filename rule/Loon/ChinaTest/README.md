@@ -12,18 +12,18 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-04-30 02:33:15
+最后更新时间：2026-05-10 02:21:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 135  | 
+| DOMAIN | 134  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 116262  | 
+| DOMAIN-SUFFIX | 114182  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT | 31  | 
-| TOTAL | 116452  | 
+| TOTAL | 114371  | 
 
 
 ## Loon 
