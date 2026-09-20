@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-12 04:22:15
+# UPDATED: 2026-09-20 03:57:08
 # DOMAIN: 267
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 110618
+# DOMAIN-SUFFIX: 110617
 # IP-ASN: 1
-# IP-CIDR: 8245
-# IP-CIDR6: 4222
+# IP-CIDR: 8247
+# IP-CIDR6: 4221
 # USER-AGENT: 65
 # TOTAL: 123429
 .0.zone
@@ -83456,7 +83456,6 @@
 .spsicloudport.com
 .spsisctgroup.com
 .spsisncl.com
-.spst2.com
 .spsy.org
 .sptcc.com
 .sptccn.com

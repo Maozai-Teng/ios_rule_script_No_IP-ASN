@@ -1,13 +1,13 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-12 04:21:24
+# UPDATED: 2026-09-20 03:56:02
 # DOMAIN: 268
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111052
+# DOMAIN-SUFFIX: 111051
 # IP-ASN: 1
-# IP-CIDR: 8245
-# IP-CIDR6: 4222
+# IP-CIDR: 8247
+# IP-CIDR6: 4221
 # USER-AGENT: 65
 # TOTAL: 123866
 .0.zone
@@ -83828,7 +83828,6 @@
 .spsicloudport.com
 .spsisctgroup.com
 .spsisncl.com
-.spst2.com
 .spsy.org
 .sptcc.com
 .sptccn.com
